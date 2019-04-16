@@ -1,0 +1,168 @@
+body {
+
+    text-align: center;
+
+}
+
+fieldset{
+    display: inline-block;
+    padding: 20px;
+    background-color: dodgerblue;
+    color: white;
+
+}
+
+input{
+    margin: 15px;
+}
+header{
+    background-color: dodgerblue;
+    padding: 25px;
+
+    top: 0;
+    left:0;
+    width: 100%;
+}
+
+
+ footer{
+    background-color: dodgerblue;
+    padding: 25px;
+     color: white;
+    position:fixed;
+    bottom:0;
+    left:0;
+    width: 100%;
+
+}
+
+h1{
+    color: white;
+}
+
+
+body{
+    background-color: #add9ff !important;
+    background-size: 10% !important;
+    background-repeat: repeat !important;
+
+    margin: 0 auto !important;
+    text-align: center !important;
+
+}
+
+#body{
+
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+
+    padding-top: 30px;
+    padding-bottom :30px;
+    padding-left: 30px;
+    margin-top: 50px;
+
+}
+#stav{
+    background-color: dodgerblue;
+    color: white;
+    padding: 20px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 40px;
+
+
+}
+header{
+    position: relative;
+    background-color:dodgerblue;
+    padding: 1px;
+
+}
+h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+
+
+footer{
+
+    background-color:#323844;
+    width: 100%;
+    padding: 25px;
+    text-align: center;
+    color: white;
+    position:fixed;
+    bottom:0;
+    left:0;
+
+}
+
+.columns{
+
+    background-color: rgba(255, 255, 255, 0.4);
+    width: 45%;
+    height: 100%;
+    margin: 0 auto;
+    padding: 0 30px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 30px;
+    padding-bottom :30px;
+    margin-top: 50px;
+
+
+}
+
+
+
+
+.table td {
+    text-align: center;
+}
+
+button a{
+    color: white;
+}
+.table-hover > tbody > tr:hover{
+    background-color: #a9b4d7;
+    color: white;
+}
+.table-hover tr:hover {
+    background-color: cadetblue;
+}
+.thead-inverse th{
+    background-color: #3e75d9;
+}
+
+th a {
+    color: white;
+}
+
+th a:hover{
+    color: white;
+    font-size: 17px;
+}
+
+button a:hover {
+    color: white;
+}
+
+.table2 {
+    border-radius: 5px;
+    width: 50% !important;
+    margin: 0px auto;
+    float: none;
+}
+
+
+label{
+    text-align: left;
+}
+
+fieldset{
+    padding: 10px !important;
+
+}
