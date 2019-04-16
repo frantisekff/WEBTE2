@@ -1,4 +1,4 @@
-# WEBTE22 
+# Tímový projekt WEBTE 2  
 Na testovanie projektu sme vytvorili dva učty. Jeden administrátorsky a jedného užívateľa.
 
 Administrátorské meno je admin@admin.admin a heslo .
