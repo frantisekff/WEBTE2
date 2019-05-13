@@ -1,12 +1,6 @@
 # Tímový projekt WEBTE 2  
-Na testovanie projektu sme vytvorili dva učty. Jeden administrátorsky a jedného užívateľa.
-
-Administrátorské meno je admin@admin.admin a heslo .
-
-Užívateľsky účet meno: frantisek.ff.ff@gmail.com a heslo
-
-Projekt sa nachádza na adrese: https://147.175.98.137/final
-Prihlásiť sa môžeme v sekcii login a zaregistrovať s mailom v sekcii sign up.
+Súčasťou predmetu bol aj tímový projekt, ktorý slúži na sledovanie aktivít užívateľov. Napr. koľko kto zabehol, plával, ...
+Užívatelia si môžu vytvárať tímy a navzájom sledovať svoje aktivity.
          
 ## Bežný užívateľ:
 
@@ -20,7 +14,7 @@ Aktuálne novinky nájde v sekcii Newsletter, kde sa môže na odber prihlásiť
 
 Má možnosť vytvoriť viacerých používateľov nahratím jedného súboru. Ďalej v sekcii Teams vidí všetky tímy. V
 sekcii Add Team môže vytvárať nové tímy.
-Sekcia Users zobrazuje všetkých užívateľov. Po rozkríknutí užívateľa sa zobrazí tabuľka so všetkými aktivitami
+Sekcia Users zobrazuje všetkých užívateľov. Po rozklíknutí užívateľa sa zobrazí tabuľka so všetkými aktivitami
 užívateľa.
 ## Použité API
 * Google maps JavaScript API
